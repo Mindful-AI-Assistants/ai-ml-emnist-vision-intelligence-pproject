@@ -1,0 +1,43 @@
+# =========================
+# Deep Learning Framework
+# =========================
+torch
+torchvision
+torchaudio
+
+# =========================
+# Data Science & Analytics
+# =========================
+numpy
+pandas
+matplotlib
+scikit-learn
+
+# =========================
+# Computer Vision
+# =========================
+opencv-python
+Pillow
+
+# =========================
+# Interactive Web Application
+# =========================
+streamlit
+streamlit-drawable-canvas
+
+# =========================
+# Experiment Monitoring
+# =========================
+tensorboard
+
+# =========================
+# Jupyter Environment
+# =========================
+jupyter
+notebook
+ipykernel
+
+# =========================
+# Utilities
+# =========================
+tqdm
