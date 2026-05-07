@@ -20,8 +20,8 @@
 <p align="center" style="margin: 0;">
   <a href="https://identificados-de-letras-e-numeros.streamlit.app/" rel="noopener noreferrer">
     <img 
-      src="https://img.shields.io/badge/Streamlit%20Interactive-EMNIST%20Vision%20Intelligence%20Dashboard-0f172a?style=for-the-badge&logo=streamlit&logoColor=white" 
-      alt="Streamlit Interactive – EMNIST Vision Intelligence Dashboard"
+      src="https://img.shields.io/badge/Streamlit%20Cloud-EMNIST%20Inference%20System-0f172a?style=for-the-badge&logo=streamlit&logoColor=white" 
+      alt="Streamlit Cloud EMNIST Inference System"
       style="height: 38px; width: auto;"
     />
   </a>
