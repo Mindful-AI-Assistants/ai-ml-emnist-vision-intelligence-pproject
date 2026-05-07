@@ -18,10 +18,10 @@
 
 <!-- ========= START MAIN BADGE ========= -->
 <p align="center" style="margin: 0;">
-  <a href="https://melodious-squirrel-7f92a7.netlify.app/" rel="noopener noreferrer">
+  <a href="" rel="noopener noreferrer">
     <img 
-      src="https://img.shields.io/badge/React%20Interactive-EMNIST%20Vision%20Intelligence%20Presentation-0f172a?style=for-the-badge&logo=react&logoColor=white" 
-      alt="React Interactive – EMNIST Vision Intelligence Presentation"
+      src="https://img.shields.io/badge/Streamlit%20Interactive-EMNIST%20Vision%20Intelligence%20Dashboard-0f172a?style=for-the-badge&logo=streamlit&logoColor=white" 
+      alt="Streamlit Interactive – EMNIST Vision Intelligence Dashboard"
       style="height: 38px; width: auto;"
     />
   </a>
@@ -30,17 +30,17 @@
 <!-- ========= START SECONDARY BADGES ========= -->
 <p align="center" style="margin: 0;">
   
-  <a href="https://docs.google.com/presentation/d/1lbAfse10pa_k560jxd0nQEE_ISdIEweC/edit?slide=id.p1#slide=id.p1" rel="noopener noreferrer">
+  <a href="" rel="noopener noreferrer">
     <img 
-      src="https://img.shields.io/badge/PPTX-Deep%20Learning%20Presentation-0f766e?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" 
-      alt="PPTX Deep Learning Presentation"
+      src="https://img.shields.io/badge/Beautiful.ai-Deep%20Learning%20Presentation-0f766e?style=for-the-badge&logo=beautifulsoup&logoColor=white" 
+      alt="Beautiful.ai Deep Learning Presentation"
       style="height: 32px; width: auto; margin-right: 8px;"
     />
   </a>
 
   <a href="#" target="_blank" rel="noopener noreferrer">
     <img 
-      src="https://img.shields.io/badge/Model%20Analysis-Neural%20Network%20Report-134e4a?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=022c22" 
+      src="" 
       alt="Neural Network Analysis Report"
       style="height: 32px; width: auto;"
     />
