@@ -112,7 +112,15 @@
 
 
 
+
 <p align="center">
+
+  <img src="https://img.shields.io/badge/Python-Artificial%20Intelligence%20Pipeline-0f172a?style=for-the-badge&logo=python&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Perceptron-Neural%20Learning%20Model-101f2f?style=for-the-badge&logo=pytorch&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Convolutional%20Neural%20Networks-Computer%20Vision%20Architecture-112a3a?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Streamlit-RealTime%20Inference-123445?style=for-the-badge&logo=streamlit&logoColor=white" />
   
   <img src="https://img.shields.io/badge/OpenCV-Image%20Processing-124050?style=for-the-badge&logo=opencv&logoColor=white" />
@@ -120,8 +128,8 @@
   <img src="https://img.shields.io/badge/TensorBoard-Training%20Monitoring-134a4a?style=for-the-badge&logo=tensorflow&logoColor=white" />
   
   <img src="https://img.shields.io/badge/EMNIST-47%20Class%20Classification-134e4a?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
 
+</p>
 
 <!-- ===================== END BADGES GROUP 2 ===================== -->
 
