@@ -38,16 +38,15 @@
     />
   </a>
 
-  <a href="#" target="_blank" rel="noopener noreferrer">
+ <a href="#" target="_blank" rel="noopener noreferrer">
     <img 
-      src="" 
+      src="https://img.shields.io/badge/Model%20Analysis-Neural%20Network%20Report-134e4a?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=022c22" 
       alt="Neural Network Analysis Report"
       style="height: 32px; width: auto;"
     />
   </a>
 
 </p>
-
 <br><br><br><br>
 <!-- ========= END BADGE ========= -->
 
