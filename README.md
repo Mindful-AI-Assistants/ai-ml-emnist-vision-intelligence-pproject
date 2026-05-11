@@ -137,19 +137,23 @@
 
 
 <!-- ========= START Main Repo REFERENCE  ========= -->
+
 > [!TIP]
 >
 > This repository is part of the flagship ecosystem:
+>
 > ## 🧠 AI & Machine Learning — Main Hub
 >
 > Explore the complete collection of projects, notebooks, research materials, analyses, and interactive applications available in the central repository:
 >
-> 🔗 **[AI & Machine Learning — Main Repository](https://github.com/Mindful-AI-Assistants/1-AI-MachineLearning_Main_Repository-PUCSP)**
+> 🔗 **[AI & Machine Learning — Main Hub](https://github.com/Mindful-AI-Assistants/1-AI-MachineLearning_Main_Hub)**
 >
+> #
+>
+> ✨ Part of the *Humanistic AI & Data Modeling Series*
 > 
->
->  Part of the *Humanistic AI & Data Modeling Series*  
-> Bridging artificial intelligence, data science, cybersecurity, and human-centered technology. ⚡
+> *Teaching machines to recognize patterns while developers learn patience debugging the exceptions.* 
+
 
 <br><br><br><br>
 <!-- ========= END Main Repo REFERENCE  ========= -->
