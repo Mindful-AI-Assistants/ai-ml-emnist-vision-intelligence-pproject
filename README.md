@@ -16,7 +16,7 @@
 
 <br><br>
 
-<!-- ========= START MAIN BADGE ========= -->
+<!-- ========= START Dashboard Streamlit ========= -->
 <p align="center" style="margin: 0;">
   <a href="https://identificados-de-letras-e-numeros.streamlit.app/" rel="noopener noreferrer">
     <img 
@@ -27,8 +27,10 @@
   </a>
 </p>
 
-<!-- ========= START SECONDARY BADGES ========= -->
+<!-- ========= END Dashboard Streamlit ========= -->
 
+
+<!-- ========= START Canva Slides ========= -->
 <p align="center" style="margin: 0;">
 
   <a href="https://www.canva.com/design/DAHI8GmXZP8/Hxi6FpvjeKvf3em_iXlp2Q/edit" rel="noopener noreferrer">
@@ -38,7 +40,10 @@
       style="height: 32px; width: auto; margin-right: 8px;"
     />
   </a>
+  
+<!-- =========End Canva Slides ========= -->
 
+<!-- ========= START DATA ANALYSING REPORT ========= -->
   <a href="https://github.com/Mindful-AI-Assistants/ai-ml-emnist-vision-intelligence-pproject/blob/5119adc130f94eff7ef70de7a90ab8d291be764d/Model%20Analysis.pdf" target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.shields.io/badge/Data%20Analysis-Neural%20Network%20Report-134e4a?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=022c22" 
@@ -50,10 +55,31 @@
 </p>
 
 <br><br><br><br>
-<!-- ========= END BADGE ========= -->
+<!-- ========= END DATA ANALYSING REPORT ========= -->
+
+
+
+<!-- ======================================= Start nstitucional INFO ===========================================  -->
+[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
+[**School:**]() Faculty of Interdisciplinary Studies  <br>
+[Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING  <br>
+**Professor:**  [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)  <br>
+**Authors**:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari) e [Perdro Vyctor Almeida]()  <br>  <br>
+
+<br><br>
+<!-- ========= END Institucional INFO ========= -->
+
+
+
+<!-- ========= START SPONSORT BADGE ========= -->
+#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
+
+<br><br><br>
+<!-- ========= END SPONSORTBADGE ========= -->
+
+
 
 <!-- =========  START PUC HEADER GIF ========= -->
-
 <p align="center">
    <img src="https://github.com/user-attachments/assets/791a69e2-d09a-429f-9257-f6667fff5c04 ">
  </p>
@@ -63,33 +89,8 @@
 <!-- =========  END PUC HEADER GIF ========= -->
 
 
-<!-- ========= START SPONSORT BADGE ========= -->
- <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
 
-#### <p align="center"> [![Sponsor Mindful AI Assistants](https://img.shields.io/badge/Sponsor-%C2%B7%C2%B7%C2%B7%20Mindful%20AI%20Assistants%20%C2%B7%C2%B7%C2%B7-brightgreen?logo=GitHub)](https://github.com/sponsors/Mindful-AI-Assistants)
-
-<br><br><br>
-<!-- ========= END SPONSORTBADGE ========= -->
-
-
-
-<!-- ======================================= Start nstitucional INFO ===========================================  -->
- <!--### <p align="center">  <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="46">  -->
-[**Institution:**]() Pontifical Catholic University of São Paulo (PUC-SP  Humanistic AI & Data Science • 5º Semestre • 2026 <br>
-[**School:**]() Faculty of Interdisciplinary Studies  <br>
-[Course Repo:]() INTEGRATED PROJECT: MACHINE LEARNING  <br>
-**Professor:**  [✨ Rooney Ribeiro Albuquerque Coelho](https://www.linkedin.com/in/rooney-coelho-320857182/)  <br>
-**Authors**:**  [Fabiana ⚡️ Campanari](https://linktr.ee/fabianacampanari) e [Perdro Vyctor Almeida]()  <br>  <br>
-
-<br><br>
-
-#
-
-<br><br>
-<!-- ========= END Institucional INFO ========= -->
-
-<!-- ========= START BADGES PYRAMID ========= -->
-
+<!-- ========= START BADGES GROUP 2 ========= -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-AI%20Pipeline-0f172a?style=for-the-badge&logo=python&logoColor=white" />
 </p>
@@ -105,17 +106,54 @@
   <img src="https://img.shields.io/badge/EMNIST-47%20Classes-134e4a?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-<!-- ========= END BADGES PYRAMID ========= -->
+<br><br><br>
+<!-- ========= END BADGES GROUP 2 ========= -->
 
 
+
+<!-- ========= START NOTE ========= -->
+> [!NOTE]
+>
+> ⚠️ Projects may be publicly shared when permitted.  
+> The focus is on applied, hands-on learning with real datasets in AI governance and security contexts.  
+> All sensitive content remains protected in private repositories when required.
+>
 
 <br><br>
+<!-- ========= END NOTE ========= -->
 
 
 
+<!-- ========= START OVERVIEW ========= -->
 
 
 
+<!-- <br><br>
+
+#
+
+<br><br> -->
+<!-- ========= END Overview ========= -->
+
+
+<!-- ========= START Main Repo REFERENCE  ========= -->
+> [!TIP]
+>
+> This repository is part of the flagship ecosystem:
+> ## 🧠 AI & Machine Learning — Main Hub
+>
+> Explore the complete collection of projects, notebooks, research materials, analyses, and interactive applications available in the central repository:
+>
+> 🔗 **[AI & Machine Learning — Main Repository](https://github.com/Mindful-AI-Assistants/1-AI-MachineLearning_Main_Repository-PUCSP)**
+>
+> 
+>
+>  Part of the *Humanistic AI & Data Modeling Series*  
+> Bridging artificial intelligence, data science, cybersecurity, and human-centered technology. ⚡
+
+<br><br><br><br>
+<!-- ========= END Main Repo REFERENCE  ========= -->
+<!-- ======================================= END DEFAULT HEADER ⚡️ ===========================================  -->
 
 
 
